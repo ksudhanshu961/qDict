@@ -17,6 +17,6 @@ This command line utility helps, to quickly find meaning any word and it's suppo
 Now, you can use this tool by typing **qDict lang word** .
 
 example:
-    qDict english-us hello
+    **qDict english-us hello
     	or 
-    sudo qDict english-us hello
+    sudo qDict english-us hello**
